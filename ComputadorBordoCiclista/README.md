@@ -241,6 +241,42 @@ A análise de mercado abrange diferentes categorias de computadores de bordo par
 | **Magene C406 Pro** | Atual (Budget) | Tela 2.4" LCD monocromática segmentada, suporte a 4 sistemas de satélite, Bateria de 28h, BT/ANT+ | Apesar do baixo custo, oferece suporte completo a sensores avançados de potência e integração com radares de trânsito, além de telas altamente personalizáveis. | Entrada (Budget) | Representa um excelente custo-benefício que democratizou o acesso a métricas avançadas de treinamento para ciclistas amadores com orçamentos restritos. |
 | **Beeline Velo 2** | Atual (Urbano) | Tela circular compacta monocromática, não possui GPS interno (depende integralmente do hardware do smartphone pareado) | Foca em navegação urbana intuitiva por meio de uma "bússola inteligente" que aponta a direção geral ou roteamento simplificado em uma interface minimalista. | Entrada | Possui um foco arquitetural exclusivo em navegação urbana simples para deslocamentos diários, não competindo no segmento de métricas de treino esportivo ou performance. |
 
+### 5.2 Galeria de Produtos
+
+As imagens a seguir apresentam cada produto comparativo em sua configuração de uso real, permitindo a comparação visual de forma fator, tamanho de tela e design de interface.
+
+| Produto | Imagem | Destaque Visual |
+|---|---|---|
+| **Garmin Edge 840** | ![Garmin Edge 840](./images/Garmin.png) | Interface touchscreen colorida com menu de navegação estruturado por perfis de atividade (Road, Training, Navigation) |
+| **Hammerhead Karoo 3** | ![Hammerhead Karoo 3](./images/Hammerhead.png) | Tela colorida de alta resolução com exibição densa de métricas em tempo real, sendo operado em campo |
+| **Wahoo ELEMNT BOLT V2** | ![Wahoo ELEMNT BOLT V2](./images/Wahoo.jpg) | Design compacto com tela monocromática de alto contraste e faixa de LEDs indicadores na parte superior |
+| **Coros Dura Solar** | ![Coros Dura Solar](./images/Dura.png) | Tela MIP colorida com renderização de mapas vetoriais e painel solar integrado na borda superior |
+| **Magene C406** | ![Magene C406](./images/Magene.png) | Display LCD segmentado monocromático com layout de dados múltiplos, posicionamento entry-level |
+| **Beeline Velo 2** | ![Beeline Velo 2](./images/Beeline.jpg) | Tela circular compacta com interface de bússola direcional, montado no guidão em ambiente urbano |
+| **Contexto de Uso** | ![Ciclocomputador em uso](./images/Bicicleta_Computador.jpg) | Exemplo de montagem de ciclocomputador no guidão durante uma atividade de ciclismo |
+
+### 5.3 Preços Atuais de Mercado (2025/2026)
+
+Os valores abaixo foram coletados a partir dos sites oficiais dos fabricantes e revendedores autorizados em junho de 2026. Os preços estão expressos em dólar americano (USD) e real brasileiro (BRL), considerando a cotação aproximada de R$ 5,70/USD. A variação entre revendedores pode ser de ±10% sobre os valores listados.
+
+| Produto | Preço Oficial (USD) | Preço Estimado (BRL) | Fonte | Segmento |
+|---|---|---|---|---|
+| **Garmin Edge 840** | USD 449,99 | ~R$ 2.565 | [garmin.com][p1] | Premium |
+| **Hammerhead Karoo 3** | USD 515,00 | ~R$ 2.935 | [laufcycles.com][p2] | Premium |
+| **Wahoo ELEMNT BOLT V2** | USD 349,99 | ~R$ 1.995 | [wahoofitness.com][p3] | Intermediário |
+| **Coros Dura Solar** | USD 249,00 | ~R$ 1.420 | [coros.com][p4] | Intermediário |
+| **Magene C406** | USD 49,00 | ~R$ 280 | [magene.com][p5] | Entrada (Budget) |
+| **Beeline Velo 2** | USD 99,99 | ~R$ 570 | [beeline.co][p6] | Entrada (Urbano) |
+
+[p1]: https://www.garmin.com/en-US/p/798777/
+[p2]: https://www.laufcycles.com/product/hammerhead-karoo-3
+[p3]: https://www.wahoofitness.com/devices/bike-computers/elemnt-bolt-buy
+[p4]: https://coros.com/product/coros-dura-solar-gps-bike-computer
+[p5]: https://www.magene.com/en/bike-computers/51-c406-gps-bike-computer.html
+[p6]: https://beeline.co/products/beeline-velo-2
+
+> **Nota**: O Garmin Edge 850, produto de referência deste estudo, é o sucessor direto do Edge 840 e possui preço de lançamento de USD 599,99 nos EUA. O Edge 840 permanece disponível como modelo de custo reduzido após o lançamento do 850.
+
 ---
 
 ### Referências
