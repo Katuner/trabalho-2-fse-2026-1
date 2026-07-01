@@ -20,5 +20,5 @@ A documentação completa está na pasta [`ComputadorBordoCiclista/`](./Computad
 
 | Nome completo | Matrícula |
 |---|---|
-| Lucas Oliveira Meirels | 190016647 |
+| Lucas Oliveira Meireles | 190016647 |
 | Pedro Ramos Sousa Reis | 222031680 |
