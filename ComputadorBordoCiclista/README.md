@@ -257,7 +257,7 @@ As imagens a seguir apresentam cada produto comparativo em sua configuração de
 
 ### 5.3 Preços Atuais de Mercado (2025/2026)
 
-Os valores abaixo foram coletados a partir dos sites oficiais dos fabricantes e revendedores autorizados em junho de 2026. Os preços estão expressos em dólar americano (USD) e real brasileiro (BRL), considerando a cotação aproximada de R$ 5,70/USD. A variação entre revendedores pode ser de ±10% sobre os valores listados.
+Os valores abaixo foram coletados a partir dos sites oficiais dos fabricantes e revendedores autorizados em junho de 2026. Os preços estão expressos em dólar americano (USD) e real brasileiro (BRL), considerando a cotação aproximada de R$ 5,70/USD. Os valores não estão considerando custos de importação ou demais adicionais que podem existir ao mercado nacional.
 
 | Produto | Preço Oficial (USD) | Preço Estimado (BRL) | Fonte | Segmento |
 |---|---|---|---|---|
