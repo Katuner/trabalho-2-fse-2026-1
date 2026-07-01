@@ -2,12 +2,20 @@
 
 ## Integrantes
 
+## Alunos
+
+<center>
+  
+| <img src="https://github.com/katuner.png" width="100" > | <img src="https://github.com/pedrorsr.png" width="100"> |
+| :---: | :---: |
+| [Lucas Oliveira Meireles](https://github.com/Katuner) | [Pedro Ramos Sousa Reis](https://github.com/PedroRSR) |
+  
+</center>
+
 | Nome completo | Matrícula |
 |---|---|
-| Aluno de Engenharia de Software 1 | 200000001 |
-| Aluno de Engenharia de Software 2 | 200000002 |
-| Aluno de Engenharia de Software 3 | 200000003 |
-| Aluno de Engenharia de Software 4 | 200000004 |
+| Lucas Oliveira Meirels | 190016647 |
+| Pedro Ramos Sousa Reis | 222031680 |
 
 ## 1. Descrição do Produto
 
