@@ -27,7 +27,11 @@ O público-alvo deste produto abrange uma ampla gama de usuários, desde ciclist
 
 No contexto da disciplina de Fundamentos de Sistemas Embarcados, o modelo conceitual proposto tem finalidade educacional. O sistema documentado serve como base de estudo para a arquitetura de hardware, processamento de sinais e telemetria esportiva, independentemente de marcas comerciais específicas.
 
+<center>
+
+![Computador de Bordo](../ComputadorBordoCiclista/images/Bicicleta_Computador.jpg)
 *(Figura 1: Exemplo de um computador de bordo montado no guidão de uma bicicleta em uso)*
+</center>
 
 ## 2. Análise Técnica do Funcionamento
 
