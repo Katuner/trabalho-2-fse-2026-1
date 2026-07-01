@@ -14,7 +14,7 @@
 
 | Nome completo | Matrícula |
 |---|---|
-| Lucas Oliveira Meirels | 190016647 |
+| Lucas Oliveira Meireles | 190016647 |
 | Pedro Ramos Sousa Reis | 222031680 |
 
 ## 1. Descrição do Produto
