@@ -30,6 +30,7 @@ No contexto da disciplina de Fundamentos de Sistemas Embarcados, o modelo concei
 <center>
 
 ![Computador de Bordo](../ComputadorBordoCiclista/images/Bicicleta_Computador.jpg)
+
 *(Figura 1: Exemplo de um computador de bordo montado no guidão de uma bicicleta em uso)*
 </center>
 
