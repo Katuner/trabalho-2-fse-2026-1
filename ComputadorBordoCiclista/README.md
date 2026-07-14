@@ -17,6 +17,18 @@
 | Lucas Oliveira Meireles | 190016647 |
 | Pedro Ramos Sousa Reis | 222031680 |
 
+## Organização da Documentação
+
+A documentação deste projeto está dividida nos seguintes arquivos:
+
+1. **`README.md`** (este arquivo): Visão geral, análise do produto original, proposta arquitetural com ESP32, pesquisa bibliográfica e comparativo de mercado.
+2. **`DETALHES_TECNICOS.md`**: Aprofundamento nas especificações de hardware, consumo de energia (bateria), características de sensores e limiares de alarme baseados em pesquisa acadêmica.
+3. **`IMPLEMENTACAO.md`**: Guia prático de montagem, contendo lista de componentes, esquema de conexões (pinagem) e arquitetura de software para o protótipo.
+4. **`IMPLEMENTACAO_RTOS.md`**: Detalhamento da arquitetura avançada baseada em tarefas, filas e semáforos utilizando FreeRTOS.
+5. **`GUIA_EXECUCAO.md`**: Instruções de compilação, upload do firmware para o ESP32 e diagrama visual de montagem do circuito.
+
+---
+
 ## 1. Descrição do Produto
 
 Este trabalho analisa o computador de bordo para ciclistas, utilizando como referência técnica o modelo **Garmin Edge 850**. Os ciclocomputadores com GPS são dispositivos eletrônicos instalados no guidão da bicicleta, desenvolvidos para coletar, armazenar, processar e exibir métricas da atividade de ciclismo em tempo real.
