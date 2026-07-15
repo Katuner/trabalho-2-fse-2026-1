@@ -20,10 +20,10 @@
 #define I2C_ADDR_OLED           0x3C
 
 // ============ CONFIGURAÇÕES DE WIFI E MQTT ============
-#define WIFI_SSID               "Sua_Rede_WiFi"
-#define WIFI_PASS               "Sua_Senha"
+#define WIFI_SSID               "BordoPC"
+#define WIFI_PASS               "123456"
 #define MQTT_BROKER_URL         "mqtt://tb.fse.lappis.rocks"
-#define MQTT_ACCESS_TOKEN       "SEU_TOKEN_THINGSBOARD"
+#define MQTT_ACCESS_TOKEN       "sINHm4Z1o6MvERK18xZG"
 
 // ============ CONFIGURAÇÕES DE SENSORES ============
 #define WHEEL_CIRCUMFERENCE     2.1f
