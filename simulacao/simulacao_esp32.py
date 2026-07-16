@@ -4,7 +4,7 @@ import random
 
 # CONFIGURAÇÃO
 THINGSBOARD_HOST = 'tb.fse.lappis.rocks'
-ACCESS_TOKEN = 'sINHm4Z1o6MvERK18xZG'
+ACCESS_TOKEN = '3N4Y4hb6uSpRTS6VP3Fg'
 
 client = mqtt.Client()
 client.username_pw_set(ACCESS_TOKEN)

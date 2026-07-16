@@ -23,7 +23,7 @@
 #define WIFI_SSID               "BordoPC"
 #define WIFI_PASS               "123456"
 #define MQTT_BROKER_URL         "mqtt://tb.fse.lappis.rocks"
-#define MQTT_ACCESS_TOKEN       "sINHm4Z1o6MvERK18xZG"
+#define MQTT_ACCESS_TOKEN       "3N4Y4hb6uSpRTS6VP3Fg"
 
 // ============ CONFIGURAÇÕES DE SENSORES ============
 #define WHEEL_CIRCUMFERENCE     2.1f
