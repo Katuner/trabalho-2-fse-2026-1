@@ -1,0 +1,25 @@
+# Compilação ESP-IDF
+build/
+sdkconfig
+sdkconfig.old
+
+# Configurações de Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# Arquivos de Sistema
+.DS_Store
+Thumbs.db
+
+# Temporários
+*.log
+*.zip

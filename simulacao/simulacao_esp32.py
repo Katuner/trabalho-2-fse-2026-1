@@ -11,7 +11,7 @@ client.username_pw_set(ACCESS_TOKEN)
 client.connect(THINGSBOARD_HOST, 1883, 60)
 client.loop_start()
 
-print("Simulando ESP32... Olhe para o seu Dashboard!")
+print("Simulando ESP32... Veja o Dashboard no ThingsBoard!")
 
 try:
     distancia = 0
